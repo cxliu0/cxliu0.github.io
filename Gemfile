@@ -10,18 +10,24 @@ source "https://gems.ruby-china.com"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-#gem "jekyll", github: "jekyll/jekyll", ref: "refs/pull/9248/head"
+# * install liquid
 gem 'liquid', '~> 4.0', '>= 4.0.4'
 
-gem "github-pages", group: :jekyll_plugins
+# * for local develop instead of github
+gem "jekyll"
+gem "jekyll-paginate"
+gem "jekyll-gist"
+gem "jekyll-redirect-from"
+gem "kramdown-parser-gfm"
+gem "webrick"
+#gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-# gem "jekyll"
-
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+# * add timezone
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem 'tzinfo', '>= 1', '< 3'
   gem 'tzinfo-data'
