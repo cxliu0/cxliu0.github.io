@@ -10,28 +10,26 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# * install liquid
-gem 'liquid', '~> 4.0', '>= 4.0.4'
-
 # * for local develop instead of github
+#gem 'liquid', '~> 4.0', '>= 4.0.4'
 #gem "jekyll"
 #gem "jekyll-paginate"
 #gem "jekyll-gist"
 #gem "jekyll-redirect-from"
 #gem "kramdown-parser-gfm"
 #gem "webrick"
+# * add timezone
+#platforms :mingw, :x64_mingw, :mswin, :jruby do
+#  gem 'tzinfo', '>= 1', '< 3'
+#  gem 'tzinfo-data'
+#end
+
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-# * add timezone
-#platforms :mingw, :x64_mingw, :mswin, :jruby do
-#  gem 'tzinfo', '>= 1', '< 3'
-#  gem 'tzinfo-data'
-#end
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
