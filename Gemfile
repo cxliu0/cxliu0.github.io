@@ -23,6 +23,7 @@ source "https://rubygems.org"
 #  gem 'tzinfo', '>= 1', '< 3'
 #  gem 'tzinfo-data'
 #end
+gem "tzinfo", ">= 1.2.10"
 
 gem "github-pages", group: :jekyll_plugins
 
