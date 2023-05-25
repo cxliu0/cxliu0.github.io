@@ -1,5 +1,5 @@
-#source "https://rubygems.org"
-source "https://gems.ruby-china.com"
+source "https://rubygems.org"
+#source "https://gems.ruby-china.com"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -14,13 +14,13 @@ source "https://gems.ruby-china.com"
 gem 'liquid', '~> 4.0', '>= 4.0.4'
 
 # * for local develop instead of github
-gem "jekyll"
-gem "jekyll-paginate"
-gem "jekyll-gist"
-gem "jekyll-redirect-from"
-gem "kramdown-parser-gfm"
-gem "webrick"
-#gem "github-pages", group: :jekyll_plugins
+#gem "jekyll"
+#gem "jekyll-paginate"
+#gem "jekyll-gist"
+#gem "jekyll-redirect-from"
+#gem "kramdown-parser-gfm"
+#gem "webrick"
+gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
@@ -28,10 +28,10 @@ gem "webrick"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # * add timezone
-platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem 'tzinfo', '>= 1', '< 3'
-  gem 'tzinfo-data'
-end
+#platforms :mingw, :x64_mingw, :mswin, :jruby do
+#  gem 'tzinfo', '>= 1', '< 3'
+#  gem 'tzinfo-data'
+#end
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
