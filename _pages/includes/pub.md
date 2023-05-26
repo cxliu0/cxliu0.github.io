@@ -87,7 +87,7 @@
 
     [[paper]](https://ieeexplore.ieee.org/document/9269368/)
 
-- ``ICPR 2020`` [Exploiting distilled learning for deep siamese tracking](https://ieeexplore.ieee.org/document/9412840/)
+- ``ICPR 2020`` [Exploiting Distilled Learning for Deep Siamese Tracking](https://ieeexplore.ieee.org/document/9412840/)
 
     **Chengxin Liu**, Zhiguo Cao, Wei Li, Yang Xiao, Shuaiyuan Du, Angfan Zhu
 
