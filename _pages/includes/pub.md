@@ -45,6 +45,16 @@
 
 ## Object Counting
 
+- ``ICCV 2023`` [Point-Query Quadtree for Crowd Counting, Localization, and More](https://arxiv.org/abs/2308.13814)
+
+    **Chengxin Liu**, Hao Lu, Zhiguo Cao, Tongliang Liu
+
+    IEEE/CVF International Conference on Computer Vision 2023 (ICCV 2023)
+
+    [[paper]](https://arxiv.org/abs/2308.13814)
+    [[code]](https://github.com/cxliu0/PET)
+
+
 - ``IJCV`` [From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting](https://link.springer.com/article/10.1007/s11263-023-01782-1)
 
     Haipeng Xiong, Hao Lu, **Chengxin Liu**, Liang Liu, Chunhua Shen, Zhiguo Cao
