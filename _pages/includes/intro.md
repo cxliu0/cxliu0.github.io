@@ -4,6 +4,9 @@ My name is Chengxin Liu. I am a Ph.D. student supervised by Prof. [Zhiguo Cao](h
 I also work closely with Prof. [Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ).
 Before that, I received my bachelor's degree from HUST.
 
-My research interests include computer vision and machine learning, with a particular emphasis on **learning with noisy labels** and its applications to **dense prediction tasks**, e.g., object detection, object counting, and segmentation.
+My research interests include computer vision and machine learning, with a particular emphasis on 
+* **Learning with noisy labels**,
+* **Dense prediction** (e.g., object detection, object counting, and segmentation),
+* **Generative models**.
 
 <br />
