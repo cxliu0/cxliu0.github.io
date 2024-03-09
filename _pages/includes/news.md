@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.03*: 🎉 One paper accepted by TCSVT.
 - *2023.07*: 🎉 One paper accepted by ACM MM 2023.
 - *2023.07*: 🎉 One paper accepted by ICCV 2023.
 - *2023.04*: 🎉 One paper accepted by IJCV.
