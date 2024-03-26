@@ -109,6 +109,14 @@
 <br />
 
 ## Anime Talking Head
+- ``TCSVT`` [Hierarchical Feature Warping and Blending for Talking Head Animation](https://ieeexplore.ieee.org/abstract/document/10464342).
+
+  Jiale Zhang, **Chengxin Liu**, Ke Xian, Zhiguo Cao
+
+  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023
+
+  [[paper]](https://ieeexplore.ieee.org/abstract/document/10464342)
+
 - ``PR`` [Large Motion Anime Head Animation Using a Cascade Pose Transform Network](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_Represent_Compare_and_Learn_A_Similarity-Aware_Framework_for_Class-Agnostic_Counting_CVPR_2022_paper.pdf)
 
     Jiale Zhang, **Chengxin Liu**, Ke Xian, Zhiguo Cao
