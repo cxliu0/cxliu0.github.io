@@ -113,7 +113,7 @@
 
   Jiale Zhang, **Chengxin Liu**, Ke Xian, Zhiguo Cao
 
-  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023
+  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024
 
   [[paper]](https://ieeexplore.ieee.org/abstract/document/10464342)
 
