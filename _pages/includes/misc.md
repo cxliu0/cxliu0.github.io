@@ -5,7 +5,7 @@
 
 
 # Academic Service
-- **Conference Reviewer**: ICCV, ECCV, NeurIPS, ICLR, ACM MM, ACCV, PRCV
+- **Conference Reviewer**: CVPR, ICCV, ECCV, NeurIPS, ICLR, ACM MM, ACCV, PRCV
 - **Journal Reviewer**: IJCV, TIP, Plant Phenomics
 
 
