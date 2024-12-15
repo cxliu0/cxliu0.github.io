@@ -5,7 +5,7 @@ I also work closely with Prof. [Hao Lu](https://scholar.google.com/citations?use
 Before that, I received my bachelor's degree from HUST.
 
 My research interests include computer vision and machine learning, with a particular emphasis on 
-* **Learning with noisy labels**,
+* **Data-efficient learning**, (e.g., learning with noisy/unlabeled data)
 * **Dense prediction** (e.g., object detection, object counting, and segmentation),
 * **Generative models**.
 
