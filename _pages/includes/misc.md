@@ -12,3 +12,9 @@
 # Competition
 - *2022.12* Second Prize in China Graduate AI Innovation Competition 2022 (10000 RMB bonus)
 - *2021.07* 2nd Place in [Global Wheat Challenge 2021](https://www.aicrowd.com/challenges/global-wheat-challenge-2021) hosted at ICCV2021 (1000 USD bonus)
+
+
+# Education
+- **2020-2024**, PhD, Huazhong University of Science and Technology, China
+- **2018-2020**, Master Student, Huazhong University of Science and Technology, China
+- **2014-2018**, Bachelor, Huazhong University of Science and Technology, China
