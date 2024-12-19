@@ -4,7 +4,7 @@ My name is Chengxin Liu. I received my PhD degree from Huazhong University of Sc
 Before that, I got my bachelor's degree from HUST.
 
 My research interests include computer vision and machine learning, with a particular emphasis on 
-* **Data-efficient learning**, (e.g., learning with noisy/unlabeled data)
+* **Data-efficient learning** (e.g., learning with noisy/unlabeled data),
 * **Dense prediction** (e.g., object detection, object counting, and segmentation),
 * **Generative models**.
 
