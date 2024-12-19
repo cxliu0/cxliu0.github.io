@@ -10,5 +10,5 @@
 
 
 # Competition
-- Second Prize in China Graduate AI Innovation Competition 2022 (10000 RMB bonus), **2022**
-- 2nd Place in [Global Wheat Challenge 2021](https://www.aicrowd.com/challenges/global-wheat-challenge-2021) hosted at ICCV2021 (1000 USD bonus), **2021**
+- Second Prize in China Graduate AI Innovation Competition (10000 RMB bonus), **2022**
+- 2nd Place in [Global Wheat Challenge 2021](https://www.aicrowd.com/challenges/global-wheat-challenge-2021) @ ICCV (1000 USD bonus), **2021**
