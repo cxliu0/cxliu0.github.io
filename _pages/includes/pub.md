@@ -41,6 +41,17 @@
     [[paper]](https://ieeexplore.ieee.org/document/9745054/)
     [[code]](https://github.com/kwwcv/iaanet)
 
+
+- ``IGARSS`` [CLIP-guided Source-free Object Detection in Aerial Images](https://arxiv.org/abs/2401.05168)
+
+    Nanqing Liu, Xun Xu, Yongyi Su, **Chengxin Liu**, Peiliang Gong, Heng-Chao Li
+
+    IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024
+
+    [[paper]](https://arxiv.org/abs/2401.05168)
+    [[code]](https://github.com/Lans1ng/SFOD-RS)
+
+
 <br />
 
 ## Object Counting
