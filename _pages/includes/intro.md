@@ -1,6 +1,6 @@
 # About Me
 
-My name is Chengxin Liu. I received my PhD degree from Huazhong University of Science and Technology (HUST), advised by Prof. [Zhiguo Cao](https://scholar.google.com/citations?user=396o2BAAAAAJ) and Prof. [Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ).
+My name is Chengxin Liu. I am a Postdoctoral Researcher at Korea Advanced Institute of Science and Technology (KAIST), under the supervision of Prof. [Tae-Hyun Oh](https://scholar.google.com/citations?user=dMCBjeIAAAAJ). I received my PhD degree from Huazhong University of Science and Technology (HUST), advised by Prof. [Zhiguo Cao](https://scholar.google.com/citations?user=396o2BAAAAAJ) and Prof. [Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ).
 Before that, I got my bachelor's degree from HUST.
 
 My research interests include computer vision and machine learning, with a particular emphasis on 
