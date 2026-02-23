@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.02*: Two papers accepted by CVPR 2026.
 - *2026.02*: Received AAAI'2026 Outstanding Program Committee Award.
 - *2025.07*: One paper accepted by ACM MM 2025.
 - *2024.05*: One paper accepted by TITS.
