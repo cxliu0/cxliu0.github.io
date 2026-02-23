@@ -15,6 +15,6 @@
 - *2022.11*: One paper accepted by Pattern Recognition.
 - *2022.07*: One paper accepted by ECCV 2022.
 - *2022.03*: One paper accepted by CVPR 2022.
-<details>
+</details>
 
 <br />
