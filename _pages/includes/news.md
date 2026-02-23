@@ -4,7 +4,7 @@
 - *2025.07*: One paper accepted by ACM MM 2025.
 - *2025.04*: Received KAIST Jang Young Sil Fellowship.
   
-<details>
+<details markdown="1">
 <summary> See more </summary>
   
 - *2024.05*: One paper accepted by TITS.
