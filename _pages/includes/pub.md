@@ -1,5 +1,26 @@
 
 # 📝 Publications [[Full Paper]](https://scholar.google.com/citations?user=rGAt19wAAAAJ&hl)
+
+## Vision-Language Models
+
+- ``CVPR 2026`` Aligning What Vision-Language Models See and Perceive with Adaptive Information Flow
+
+    **Chengxin Liu**, Wonseok Choi, Chenshuang Zhang, Tae-Hyun Oh
+
+    IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 2026)
+
+    [[project page]](https://cxliu0.github.io/AIF/)
+
+
+- ``CVPR 2026`` SVHalluc: Benchmarking Speech–Vision Hallucination in Audio-Visual Large Language Models
+
+    Chenshuang Zhang, Kyeong Seon Kim, **Chengxin Liu**, Tae-Hyun Oh
+
+    IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 2026)
+
+    [[project page]](https://chenshuang-zhang.github.io/projects/svhalluc/)
+  
+
 ## Object Detection
 
 - ``ECCV 2022`` [Robust Object Detection With Inaccurate Bounding Boxes](https://arxiv.org/abs/2207.09697)
