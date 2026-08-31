@@ -19,7 +19,17 @@
     IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 2026)
 
     [[project page]](https://chenshuang-zhang.github.io/projects/svhalluc/)
+
+
+- ``ICMLW 2026`` When GUI Grounding Fails: Entropy-Based Analysis and Training-Free Refinement
+
+    **Chengxin Liu**, Moon Ye-Bin, Tae-Hyun Oh
+
+    International Conference on Machine Learning Workshops 2026 (ICMLW 2026)
+
+    [[paper]](https://openreview.net/forum?id=l5r6H6bhsm)
   
+
 
 <br />
 
